@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Code:ital,wght,MONO@0,300..800,1;1,300..800,1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght,GRAD@0,17..18,400..700,200;1,17..18,400..700,200&display=swap');
+
+h1{
+    font-family: "Google Sans Code", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-variation-settings:"MONO" 200;
+}
+
+h2{
+    font-family: "Google Sans Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style:normal;
+    font-variation-settings:"MONO" 1;
+    text-decoration:underline;
+}
+
+p{
+    font-family: "Google Sans";
+    font-weight: 400;
+}
+
+h3, span, li{
+    font-family: "Google Sans";
+    font-weight: 900;
+}
