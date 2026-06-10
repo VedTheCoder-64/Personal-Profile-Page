@@ -1,2 +1,2 @@
 # Personal-Profile-Page
-See README For Info.
+This is my first personal profile/portfolio page which I created using basic HTML and CSS since I just started learning it.
